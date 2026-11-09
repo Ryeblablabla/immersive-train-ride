@@ -1,0 +1,19 @@
+{
+  "name": "SWISSIMAGE orthophoto mosaic",
+  "attribution": "© swisstopo",
+  "source": "https://www.swisstopo.admin.ch/en/orthoimage-swissimage-10",
+  "terms": "https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices",
+  "license": "swisstopo OGD: free use for all purposes with source acknowledgement",
+  "tiles": {
+    "z": 14,
+    "x": [
+      8540,
+      8555
+    ],
+    "y": [
+      5780,
+      5795
+    ]
+  },
+  "usage": "Fictionally recomposed terrain imagery, aligned with the source DEM, not a geographically exact railway."
+}

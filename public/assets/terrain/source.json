@@ -1,0 +1,14 @@
+{
+  "width": 1024,
+  "height": 1024,
+  "min": 545.81640625,
+  "max": 4062.20703125,
+  "center": [
+    46.58,
+    7.86
+  ],
+  "zoom": 12,
+  "source": "https://registry.opendata.aws/terrain-tiles/",
+  "attribution": "Elevation tiles by Mapzen / AWS Open Data; source elevation data from SRTM and other open datasets.",
+  "usage": "Real Alpine elevation sampled and recomposed for a fictional railway; not a geographically exact route."
+}

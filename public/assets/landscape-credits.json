@@ -1,0 +1,83 @@
+[
+  {
+    "id": "coastal_cliff_01",
+    "name": "cliff-a",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/coastal_cliff_01",
+    "license": "CC0",
+    "file": "models/cliff-a.glb"
+  },
+  {
+    "id": "coastal_cliff_02",
+    "name": "cliff-b",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/coastal_cliff_02",
+    "license": "CC0",
+    "file": "models/cliff-b.glb"
+  },
+  {
+    "id": "coast_line_02",
+    "name": "shore",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/coast_line_02",
+    "license": "CC0",
+    "file": "models/shore.glb"
+  },
+  {
+    "id": "rock_face_02",
+    "name": "rock-face",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/rock_face_02",
+    "license": "CC0",
+    "file": "models/rock-face.glb"
+  },
+  {
+    "id": "rock_moss_set_01",
+    "name": "moss-rocks",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/rock_moss_set_01",
+    "license": "CC0",
+    "file": "models/moss-rocks.glb"
+  },
+  {
+    "id": "tree_small_02",
+    "name": "tree",
+    "resolution": "1k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/tree_small_02",
+    "license": "CC0",
+    "file": "models/tree.glb"
+  },
+  {
+    "id": "island_tree_02",
+    "name": "tree-b",
+    "resolution": "1k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/island_tree_02",
+    "license": "CC0",
+    "file": "models/tree-b.glb"
+  },
+  {
+    "id": "periwinkle_plant",
+    "name": "flowers",
+    "resolution": "1k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/periwinkle_plant",
+    "license": "CC0",
+    "file": "models/flowers.glb"
+  },
+  {
+    "id": "nettle_plant",
+    "name": "ferns",
+    "resolution": "1k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/nettle_plant",
+    "license": "CC0",
+    "file": "models/ferns.glb"
+  }
+]

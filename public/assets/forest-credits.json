@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fir_tree_01",
+    "name": "fir",
+    "resolution": "1k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/fir_tree_01",
+    "license": "CC0",
+    "file": "models/fir.glb"
+  },
+  {
+    "id": "mountainside",
+    "name": "mountainside",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/mountainside",
+    "license": "CC0",
+    "file": "models/mountainside.glb"
+  },
+  {
+    "id": "namaqualand_cliff_02",
+    "name": "granite",
+    "resolution": "2k",
+    "type": "Optimized 3D model derived from the source asset",
+    "source": "https://polyhaven.com/a/namaqualand_cliff_02",
+    "license": "CC0",
+    "file": "models/granite.glb"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "aerial_grass_rock",
+    "source": "https://polyhaven.com/a/aerial_grass_rock",
+    "license": "CC0",
+    "resolution": "2k",
+    "usage": "Seamless landscape PBR texture"
+  },
+  {
+    "id": "aerial_rocks_04",
+    "source": "https://polyhaven.com/a/aerial_rocks_04",
+    "license": "CC0",
+    "resolution": "2k",
+    "usage": "Seamless landscape PBR texture"
+  },
+  {
+    "id": "cliff_side",
+    "source": "https://polyhaven.com/a/cliff_side",
+    "license": "CC0",
+    "resolution": "2k",
+    "usage": "Seamless landscape PBR texture"
+  }
+]

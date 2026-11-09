@@ -1,0 +1,115 @@
+{
+  "provider": "Poly Haven",
+  "license": "CC0 1.0",
+  "licenseURL": "https://polyhaven.com/license",
+  "assets": [
+    {
+      "id": "wood_table_worn",
+      "name": "wood",
+      "type": "PBR texture",
+      "source": "https://polyhaven.com/a/wood_table_worn",
+      "license": "CC0",
+      "files": {
+        "color": "textures/wood-color.jpg",
+        "normal": "textures/wood-normal.jpg",
+        "roughness": "textures/wood-roughness.jpg",
+        "arm": "textures/wood-arm.jpg"
+      }
+    },
+    {
+      "id": "brown_leather",
+      "name": "leather",
+      "type": "PBR texture",
+      "source": "https://polyhaven.com/a/brown_leather",
+      "license": "CC0",
+      "files": {
+        "color": "textures/leather-color.jpg",
+        "normal": "textures/leather-normal.jpg",
+        "roughness": "textures/leather-roughness.jpg",
+        "arm": "textures/leather-arm.jpg"
+      }
+    },
+    {
+      "id": "gravel",
+      "name": "gravel",
+      "type": "PBR texture",
+      "source": "https://polyhaven.com/a/gravel",
+      "license": "CC0",
+      "files": {
+        "color": "textures/gravel-color.jpg",
+        "normal": "textures/gravel-normal.jpg",
+        "roughness": "textures/gravel-roughness.jpg",
+        "arm": "textures/gravel-arm.jpg"
+      }
+    },
+    {
+      "id": "concrete_floor_02",
+      "name": "concrete",
+      "type": "PBR texture",
+      "source": "https://polyhaven.com/a/concrete_floor_02",
+      "license": "CC0",
+      "files": {
+        "color": "textures/concrete-color.jpg",
+        "normal": "textures/concrete-normal.jpg",
+        "roughness": "textures/concrete-roughness.jpg",
+        "arm": "textures/concrete-arm.jpg"
+      }
+    },
+    {
+      "id": "grass_ground",
+      "name": "grass",
+      "type": "PBR texture",
+      "source": "https://polyhaven.com/a/grass_ground",
+      "license": "CC0",
+      "files": {
+        "color": "textures/grass-color.jpg",
+        "normal": "textures/grass-normal.jpg",
+        "roughness": "textures/grass-roughness.jpg",
+        "arm": "textures/grass-arm.jpg"
+      }
+    },
+    {
+      "id": "vintage_suitcase",
+      "name": "suitcase",
+      "type": "3D model",
+      "source": "https://polyhaven.com/a/vintage_suitcase",
+      "license": "CC0",
+      "file": "models/suitcase.glb",
+      "sourceBytes": 4279253
+    },
+    {
+      "id": "painted_wooden_bench",
+      "name": "bench",
+      "type": "3D model",
+      "source": "https://polyhaven.com/a/painted_wooden_bench",
+      "license": "CC0",
+      "file": "models/bench.glb",
+      "sourceBytes": 1986804
+    },
+    {
+      "id": "vintage_electric_kettle",
+      "name": "kettle",
+      "type": "3D model",
+      "source": "https://polyhaven.com/a/vintage_electric_kettle",
+      "license": "CC0",
+      "file": "models/kettle.glb",
+      "sourceBytes": 2382308
+    },
+    {
+      "id": "belfast_sunset_puresky",
+      "type": "HDRI",
+      "source": "https://polyhaven.com/a/belfast_sunset_puresky",
+      "license": "CC0",
+      "file": "sky/sunset.hdr"
+    },
+    {
+      "id": "tree_small_02",
+      "type": "Tree impostor from official asset render",
+      "source": "https://polyhaven.com/a/tree_small_02",
+      "license": "CC0",
+      "file": "vegetation/tree.png",
+      "downloadURL": "https://cdn.polyhaven.com/asset_img/primary/tree_small_02.png?width=1024&height=1024&format=png"
+    }
+  ],
+  "errors": []
+}
